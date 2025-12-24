@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucabrg10
 - 👀 I'm interested in anything
-- 🌱 I’m currently learning computer engineer at unibg
+- 🌱 I’m a computer engineer
 - 📫 How to reach me: brugnettiluca@gmail.com
 
 <!---
